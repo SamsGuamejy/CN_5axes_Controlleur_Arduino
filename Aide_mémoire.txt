@@ -1,0 +1,17 @@
+GOTO  /    
+X0.27176
+Y-42.05100
+Z47.57307
+A-0.282685
+B0.200000
+C0.959213
+
+Coord_OM (0,0,0)
+Coord_OP (0,0,0)
+Coord_Oo (0.27176,-42.05100,47.57307)
+Vecteur_Oo-Opo (0,0,20) //dans le repère Porte-Outil
+Matrice_Pointe_Outil(1,0,0,0,1,0,0,0,1)
+Matrice_Axe_Outil(0.767839,-0.54326,0.339553,0.5775717,0.8163399,-2.7755576,-0.27719087,0.196116365)
+Matrice_Axe_A()
+Matrice_Axe_B()
+Matrice_Axe_C()
